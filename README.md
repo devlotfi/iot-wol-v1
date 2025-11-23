@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/devlotfi/iot-wol/main/github-assets/github-banner.png">
 
-# 📜 iot-wol
+# 📜 iot-wol-v1
 THe goal of this project is to create a system for remotely turning on a computer from anywhere on the internet.
 it works by using the capabilities of WOL (Wake-On-Lan) and extending it using IOT technologies
 
