@@ -13,7 +13,7 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
-  base: "/iot-wol/",
+  base: "/iot-wol-v1/",
   build: {
     outDir: "../docs",
     emptyOutDir: true,
